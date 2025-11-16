@@ -1,0 +1,9 @@
+[submodule "tdp-standard"]
+	path = tdp-standard
+	url = https://github.com/jordyarms/tdp-standard.git
+[submodule "tesserarx-contracts"]
+	path = tesserarx-contracts
+	url = https://github.com/jordyarms/tesserarx-contracts.git
+[submodule "tesserarx-demo"]
+	path = tesserarx-demo
+	url = https://github.com/jordyarms/tesserarx-demo.git

@@ -1,0 +1,16 @@
+# This parent repo only contains submodules and README
+# All development work is in the submodules
+
+# Ignore everything except what we explicitly want to track
+/*
+
+# Track only these files
+!.gitignore
+!.gitmodules
+!README.md
+!LICENSE
+
+# Track submodule directories
+!tdp-standard/
+!tesserarx-contracts/
+!tesserarx-demo/
